@@ -1,0 +1,23 @@
+{
+  "name": "vss-dat-import",
+  "version": "1.0.0",
+  "description": "Clinvar data import for the Variant Subscription Service",
+  "main": "index.js",
+  "dependencies": {
+    "dat-node": "^3.5.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/david4096/vss-dat-import.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/david4096/vss-dat-import/issues"
+  },
+  "homepage": "https://github.com/david4096/vss-dat-import#readme"
+}
