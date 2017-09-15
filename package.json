@@ -1,6 +1,6 @@
 {
   "name": "vss-dat-import",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Clinvar data import for the Variant Subscription Service",
   "main": "index.js",
   "dependencies": {
@@ -8,7 +8,7 @@
   },
   "devDependencies": {},
   "bin": {
-    "vss-dat-import": "./run.sh"
+    "vss-dat-import": "./index.js"
   },
   "repository": {
     "type": "git",

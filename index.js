@@ -1,3 +1,4 @@
+#! /usr/bin/env node
 var Dat = require('dat-node')
 console.log('Welcome to datvar!!!!')
 var directory = 'clinvar_data'
