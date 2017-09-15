@@ -57,3 +57,5 @@ typings/
 # dotenv environment variables file
 .env
 
+# output data
+clinvar_data

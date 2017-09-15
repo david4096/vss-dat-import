@@ -7,8 +7,8 @@
     "dat-node": "^3.5.3"
   },
   "devDependencies": {},
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "bin": {
+    "vss-dat-import": "./run.sh"
   },
   "repository": {
     "type": "git",
